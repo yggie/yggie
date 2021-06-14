@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yggie)](https://git.io/streak-stats)
+
 [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yggie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
